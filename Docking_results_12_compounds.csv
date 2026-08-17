@@ -1,0 +1,93 @@
+Rank,Compounds,Binding affinity (kcal/mol),Residue in contact,Distance,Category,Interaction Type
+1,Kaempferol,-6.5,ARG868,2.9955,Hydrogen Bond,Conventional Hydrogen Bond
+,,,PHE731,2.53634,Hydrogen Bond,Conventional Hydrogen Bond
+,,,GLU766,2.94195,Hydrogen Bond,Conventional Hydrogen Bond
+,,,GLU766,2.82726,Hydrogen Bond,Conventional Hydrogen Bond
+,,,GLU770,4.69066,Electrostatic,Pi-Anion
+,,,LEU755,3.81302,Hydrophobic,Pi-Sigma
+,,,LEU755,3.42393,Hydrophobic,Pi-Sigma
+,,,ALA763,3.88464,Hydrophobic,Pi-Sigma
+,,,ALA763,4.61678,Hydrophobic,Pi-Alkyl
+,,,ILE767,5.03327,Hydrophobic,Pi-Alkyl
+2,Methyl gallete,-6.2,ARG756,2.36623,Hydrogen Bond,Conventional Hydrogen Bond
+,,,GLU766,2.04534,Hydrogen Bond,Conventional Hydrogen Bond
+,,,GLU770,2.34237,Hydrogen Bond,Conventional Hydrogen Bond
+,,,GLY865,2.67204,Hydrogen Bond,Conventional Hydrogen Bond
+,,,GLY865,3.35214,Hydrogen Bond,Carbon Hydrogen Bond
+,,,ILE767,3.85146,Hydrophobic,Pi-Sigma
+,,,ARG756,3.84094,Hydrophobic,Alkyl
+,,,PHE731,4.782,Hydrophobic,Pi-Alkyl
+,,,LEU755,4.70388,Hydrophobic,Pi-Alkyl
+,,,ALA763,5.00926,Hydrophobic,Pi-Alkyl
+3,Eugenol,-6,ARG868,2.86177,Hydrogen Bond,Conventional Hydrogen Bond
+,,,GLU770,2.1369,Hydrogen Bond,Conventional Hydrogen Bond
+,,,GLY865,3.29707,Hydrogen Bond,Carbon Hydrogen Bond
+,,,GLU770,3.3331,Hydrogen Bond,Carbon Hydrogen Bond
+,,,ILE767,3.82068,Hydrophobic,Pi-Sigma
+,,,ARG756,3.70542,Hydrophobic,Alkyl
+,,,LEU755,3.99819,Hydrophobic,Alkyl
+,,,ILE767,4.74478,Hydrophobic,Alkyl
+,,,LEU796,5.46573,Hydrophobic,Alkyl
+,,,PHE73,4.89072,Hydrophobic,Pi-Alkyl
+,,,LEU755,4.85254,Hydrophobic,Pi-Alkyl
+,,,ALA763,4.85778,Hydrophobic,Pi-Alkyl
+4,Citral,-5.6,GLY865,3.50379,Hydrogen Bond,Carbon Hydrogen Bond
+,,,PHE731,3.6003,Hydrophobic,Pi-Sigma
+,,,ALA763 ,4.14561,Hydrophobic,Alkyl
+,,,ALA763,4.28843,Hydrophobic,Alkyl
+,,,LEU866,5.01723,Hydrophobic,Alkyl
+,,,LEU755,3.61771,Hydrophobic,Alkyl
+,,,ARG756,4.41313,Hydrophobic,Alkyl
+,,,PHE731,5.11681,Hydrophobic,Pi-Alkyl
+5,Ricinine,-5.4,ARG868,2.30951,Hydrogen Bond,Conventional Hydrogen Bond
+,,,ARG868,2.43161,Hydrogen Bond,Conventional Hydrogen Bond
+,,,PHE731,3.48983,Hydrogen Bond,Carbon Hydrogen Bond
+,,,LEU755,4.14857,Hydrophobic,Alkyl
+,,,ARG756,3.64185,Hydrophobic,Alkyl
+,,,ALA763,4.54958,Hydrophobic,Pi-Alkyl
+6,Sclareol,-5.4,ARG849,2.27538,Hydrogen Bond,Conventional Hydrogen Bond
+,,,ASP808,2.06211,Hydrogen Bond,Conventional Hydrogen Bond
+,,,CYS805,4.76043,Hydrophobic,Alkyl
+,,,ARG849,3.81521,Hydrophobic,Alkyl
+7,Genistein,-4.7,ARG849,3.47702,Hydrogen Bond,Carbon Hydrogen Bond
+,,,SER728,3.34337,Hydrogen Bond,Carbon Hydrogen Bond
+,,,ASP808,3.90865,Electrostatic,Pi-Anion
+,,,ARG849,3.32854,Hydrophobic,Pi-Sigma
+,,,ARG849,5.28168,Hydrophobic,Pi-Alkyl
+,,,ARG849,4.30369,Hydrophobic,Pi-Alkyl
+8,Nigellone,-4.6,LYS854,2.17666,Hydrogen Bond,Conventional Hydrogen Bond
+,,,LYS860,2.24188,Hydrogen Bond,Conventional Hydrogen Bond
+,,,VAL777,4.42897,Hydrophobic,Alkyl
+9,Honokiol,-4.5,PHE864,2.8493,Hydrogen Bond,Conventional Hydrogen Bond
+,,,PHE731,2.29816,Hydrogen Bond,Conventional Hydrogen Bond
+,,,ALA763 ,3.59978,Hydrophobic,Alkyl
+,,,LYS753,4.59683,Hydrophobic,Alkyl
+,,,LEU755,4.86529,Hydrophobic,Alkyl
+,,,LEU796,4.70818,Hydrophobic,Alkyl
+,,,03Q1,5.28413,Hydrophobic,Pi-Alkyl
+,,,ARG756,4.57199,Hydrophobic,Pi-Alkyl
+,,,ALA763,4.27336,Hydrophobic,Pi-Alkyl
+,,,LEU755,4.80913,Hydrophobic,Pi-Alkyl
+,,,ILE767,4.64215,Hydrophobic,Pi-Alkyl
+10,Ajoene,-4.3,PHE731,4.25163,Other,Pi-Sulfur
+,,,ILE767,4.81053,Hydrophobic,Alkyl
+,,,ARG756,4.28966,Hydrophobic,Alkyl
+,,,LEU755,4.49484,Hydrophobic,Alkyl
+,,,ARG756,3.38257,Hydrophobic,Alkyl
+,,,PHE731,5.48106,Hydrophobic,Pi-Alkyl
+11,Allicin,-4.2,LYS860,2.45754,Hydrogen Bond,Conventional Hydrogen Bond
+,,,PRO780,3.49629,Hydrogen Bond,Carbon Hydrogen Bond
+,,,ARG784,3.99916,Hydrophobic,Alkyl
+,,,ARG784,4.04155,Hydrophobic,Alkyl
+12,Theacrine,-4.2,ARG868,1.73973,Hydrogen Bond,Conventional Hydrogen Bond
+,,,ARG868,2.017,Hydrogen Bond,Conventional Hydrogen Bond
+,,,GLU770,3.50365,Hydrogen Bond,Carbon Hydrogen Bond
+,,,GLU770,3.67722,Hydrogen Bond,Carbon Hydrogen Bond
+,,,ARG756,3.55083,Hydrogen Bond,Carbon Hydrogen Bond
+,,,PHE731,5.31415,Hydrophobic,Pi-Pi Stacked
+,,,ILE767,4.2878,Hydrophobic,Alkyl
+,,,LEU755,4.16011,Hydrophobic,Alkyl
+,,,ARG756,3.30464,Hydrophobic,Alkyl
+,,,ALA763,4.67512,Hydrophobic,Pi-Alkyl
+,,,ARG756,5.14077,Hydrophobic,Pi-Alkyl
+,,,ALA763,4.41823,Hydrophobic,Pi-Alkyl
