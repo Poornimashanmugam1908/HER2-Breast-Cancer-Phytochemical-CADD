@@ -120,6 +120,23 @@ The 12 prioritized compounds were docked against the prepared HER2 target using 
 
 
 
+#### Docking Results
+
+|        Rank         |        Compound        | Docking Affinity (kcal/mol) |
+|         1           |       Kaempferol       |           -6.5              |
+|         2           |     Methyl gallate     |           -6.2              |
+|         3           |         Eugenol        |           -6.0              |
+|         4           |         Citral         |           -5.6              |
+|         5           |        Ricinine        |           -5.4              |
+|         6           |        Sclareol        |           -5.4              |
+|         7           |       Genistein        |           -4.7              |
+|         8           |       Nigellone        |           -4.6              |
+|         9           |        Honokiol        |           -4.5              |
+|        10           |         Ajoene         |           -4.3              |
+|        11           |        Allicin         |           -4.2              |
+|        12           |       Theacrine        |           -4.2              |
+
+
 ##### 7\. Lead Compound Identification
 
 
