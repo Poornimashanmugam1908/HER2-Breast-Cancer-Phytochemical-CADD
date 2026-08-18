@@ -57,6 +57,16 @@ Top-ranked compound	                    	- Kaempferol
 → Final Compound Prioritization
 
 
+### Project Sections
+
+- [📁 Data](./01_Data/)
+- [🧪 ADMET Screening](./02_ADMET/)
+- [☠️ ProTox Toxicity Prediction](./03_ProTox/)
+- [🧬 Molecular Docking](./04_Docking/)
+- [🔬 Interaction Analysis](./05_Interaction_Analysis/)
+- [📊 Final Results](./06_Results/)
+
+
 
 ### Methodology
 
